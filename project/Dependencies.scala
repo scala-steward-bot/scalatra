@@ -46,5 +46,5 @@ object Dependencies {
 
   private val json4sVersion    = "4.1.0"
   private val specs2Version    = "4.23.0"
-  private val scalatestVersion = "3.2.19"
+  private val scalatestVersion = "3.2.20"
 }
